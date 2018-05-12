@@ -1,4 +1,5 @@
 _repo: Cruikshank-s-Water-Colours-Oliver-Twist-The-Miser-s-Daughter-History-of-The-Irish-Rebellion-i__49683
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Grego, Joseph
@@ -12,6 +13,9 @@ contributor:
     gutenberg_agent_id: '9068'
     url: http://www.gutenberg.org/2009/agents/9068
     wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+covers:
+- cover_type: archival
+  image_path: 49683-h/images/cover.jpg
 creator:
   authors:
   - *id001
@@ -20,6 +24,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49683#Cruikshank-s-Water-Colours-Oliver-Twist-The-Miser-s-Daughter-History-of-The-Irish-Rebellion-i_
 gutenberg_issued: '2015-08-11'
 gutenberg_type: Text
 identifiers:
